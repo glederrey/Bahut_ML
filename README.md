@@ -20,10 +20,10 @@ Au cours de ce programme de formation accélérée, vous apprendrez à manipuler
 
 Êtes-vous prêt à décoller vers le succès ?
 
-## Structure du dépôt
+## Structure du dossier
 - `exercices/` : Contient les notebooks Jupyter pour chaque jour
 - `data/` : Contient les jeux de données utilisés dans les exercices
-- `corrections/` : Contient les corrections des exercices
+- `solutions/` : Contient les solutions des exercices
 
 ## Configuration de l'environnement
 
@@ -69,25 +69,3 @@ Si vous préférez utiliser venv au lieu de conda :
    ```bash
    uv pip install -r requirements.txt
    ```
-
-## Contenu du cours
-
-### Jour 1 : Fondamentaux - Chargement et visualisation des données
-- Exercice 1 : Introduction à Pandas
-- Exercice 2 : Visualisation des données avec Plotly
-- Exercice 3 : Transformation des données
-
-### Jour 2 : Manipulation de données et premiers modèles de ML
-- Exercice 1 : Pandas avancé
-- Exercice 2 : Ingénierie des caractéristiques
-- Exercice 3 : Premier modèle de classification
-
-### Jour 3 : Amélioration des modèles et régression
-- Exercice 1 : Amélioration de la classification
-- Exercice 2 : Introduction à la régression
-- Exercice 3 : Visualisation des résultats des modèles
-
-### Jour 4 : Différents parcours d'apprentissage
-- Exercices guidés combinant tous les concepts précédents
-- Construction d'un pipeline ML complet
-- Débogage des erreurs courantes dans les workflows ML
