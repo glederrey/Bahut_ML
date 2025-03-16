@@ -1,6 +1,6 @@
 ## Pandas Exercices
 
-Ces exercices ont été pris du reopsitory Githuy [pandas_exercices](https://github.com/guipsamora/pandas_exercises) et ils ont été traduits par mes soins. 
+Ces exercices ont été pris du repository Github [pandas_exercices](https://github.com/guipsamora/pandas_exercises) et ils ont été traduits par mes soins. 
 
 Merci à guipsamora. 
 
