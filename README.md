@@ -31,26 +31,7 @@ Au cours de ce programme de formation accélérée, vous apprendrez à manipuler
 - [Anaconda](https://www.anaconda.com/download/) ou [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (pour l'option conda)
 - Python 3.13 ou supérieur
 
-### Option 1 : Création de l'environnement conda
-Suivez ces étapes pour configurer l'environnement de travail avec conda :
-
-1. Ouvrez un terminal (ou Anaconda Prompt sous Windows)
-2. Créez un nouvel environnement conda avec Python 3.13 :
-   ```bash
-   conda create -n bahut_ml python=3.13
-   ```
-3. Activez l'environnement :
-   ```bash
-   conda activate bahut_ml
-   ```
-4. Installez les dépendances avec uv :
-   ```bash
-   python -m pip install -r requirements.txt
-   ```
-
-### Option 2 : Utilisation de uv avec venv
-Si vous préférez utiliser venv au lieu de conda :
-
+### Création de l'environnement
 1. Ouvrez un terminal
 2. Créez un environnement virtuel avec Python 3.13 :
    ```bash
@@ -67,5 +48,5 @@ Si vous préférez utiliser venv au lieu de conda :
      ```
 4. Installez les dépendances :
    ```bash
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
    ```
