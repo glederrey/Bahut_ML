@@ -65,7 +65,7 @@ Si vous préférez utiliser venv au lieu de conda :
      ```bash
      bahut_ml_env\Scripts\activate
      ```
-4. Installez les dépendances avec uv :
+4. Installez les dépendances :
    ```bash
-   uv pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
